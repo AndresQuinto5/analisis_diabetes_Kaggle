@@ -64,8 +64,19 @@ Este proyecto utiliza un entorno Conda. El archivo `environment.yml` se encuentr
 
 Los resultados detallados del proyecto se pueden encontrar en los siguientes archivos:
 
-- [Análisis Exploratorio de Datos (EDA)](EDA.md)
+- [Análisis Exploratorio de Datos (EDA)](diabetes.md)
 - [Resultados de Machine Learning](ML_results.md)
+
+### Sneak Peek de Resultados
+
+#### Análisis Exploratorio de Datos
+![Distribución de Variables](diabetes_files/diabetes_4_55.png)
+![Correlación entre Variables](diabetes_files/diabetes_4_56.png)
+
+#### Resultados de Machine Learning
+![Matriz de Confusión - Logistic Regression](confusion_matrix_Logistic_Regression.png)
+![Importancia de Características](feature_importance.png)
+
 
 ### Resumen de Resultados
 
