@@ -70,8 +70,8 @@ Los resultados detallados del proyecto se pueden encontrar en los siguientes arc
 ### Sneak Peek de Resultados
 
 #### Análisis Exploratorio de Datos
-![Distribución de Variables](diabetes_files/diabetes_4_55.png)
-![Correlación entre Variables](diabetes_files/diabetes_4_56.png)
+![Distribución de Variables](diabetes_files/diabetes_4_16.png)
+![Correlación entre Variables](diabetes_files/diabetes_4_24.png)
 
 #### Resultados de Machine Learning
 ![Matriz de Confusión - Logistic Regression](confusion_matrix_Logistic_Regression.png)
